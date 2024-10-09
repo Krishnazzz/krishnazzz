@@ -19,6 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/krishnazzz/krishnazzz/blob/output/snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Krishnazzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
