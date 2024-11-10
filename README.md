@@ -1,5 +1,6 @@
   <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif" alt="">
 
+<h1 align="center"><b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=100&color=11F744&center=true&width=435&height=60&lines=Acc3ss+Gr%40nt3d" alt="Typing SVG" /></a></b></h1>
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></h3>
 
