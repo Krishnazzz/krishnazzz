@@ -17,6 +17,17 @@
 # 🧭 Badges
 <img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="200"><img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="200"></img><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" height="200"></img><img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="200"></img>
 
+
+## 🏆 Coding & 🔓 Hacking Profiles:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Psychixkrish/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/krishnashukla051)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/psychixkrish)
+<br>
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krishnazzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Krishnazzz&theme=dark&hide_border=false)<br/>
